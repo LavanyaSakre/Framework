@@ -20,6 +20,7 @@ public class Runner_FB extends Baseclass
 	 p.pass(pwd);
 	 Thread.sleep(8000);
 	 p.login();
+	 System.out.println("execution completed");
 	 
 	 
  }
